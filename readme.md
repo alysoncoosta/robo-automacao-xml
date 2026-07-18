@@ -1,8 +1,3 @@
-# O conteúdo do README já foi gerado na etapa anterior.
-# Vou garantir que ele seja salvo como um arquivo para download.
-
-readme_content = """# Automação de Processamento de NFS-e (WS360)
-
 Este projeto consiste em um robô de automação desenvolvido em **Python** utilizando a biblioteca **Playwright**, projetado para automatizar o processamento de Notas Fiscais de Serviço Eletrônicas (NFS-e) no sistema WS360.
 
 O objetivo desta solução é eliminar tarefas repetitivas de extração e inserção de dados, reduzindo o tempo operacional e minimizando erros humanos no fluxo de trabalho.
